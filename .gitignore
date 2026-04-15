@@ -3,3 +3,4 @@ answer
 .venv
 __pycache__
 .vscode
+.claude
